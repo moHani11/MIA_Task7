@@ -16,4 +16,5 @@ For each task's file the task info is documented in a Markdown file including:
 
 > This repository makes sure that all of my tasks are preserved and accessible for future reference and
 coordination.
-
+ 
+> I have added an extra branch in this repo for problem 2 which contains the documentation of some basic linux commands i have used. This branch was also merged into the main branch so the main can contain evreything related to task7.
