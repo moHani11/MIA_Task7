@@ -1,4 +1,4 @@
-## This is markdown file shows my work for **Task2**   
+## This markdown file shows my work for **Task2**   
 
 [The team's PDF link for the Task description](https://drive.google.com/file/d/12AK5k0PzpzjEDiXJAtH5FXASY9VW6SZ2/view)
 ---
